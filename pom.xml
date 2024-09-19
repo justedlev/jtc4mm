@@ -47,7 +47,7 @@
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
         <modelmapper.version>3.2.0</modelmapper.version>
         <lombok.version>1.18.34</lombok.version>
-        <junit.jupiter.version>5.9.2</junit.jupiter.version>
+        <junit.jupiter.version>5.11.0</junit.jupiter.version>
     </properties>
     <dependencyManagement>
         <dependencies>
