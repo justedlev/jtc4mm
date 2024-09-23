@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>jtc4omm</h1>
-    <h3>🔃 Java type converters for org.modelmapper</h3>
+    <h1>jtc4mm</h1>
+    <h3>🔃 Java type converters for ModelMapper</h3>
 </div>
 
 <div id="badges" align="center">
@@ -37,23 +37,23 @@ so What are you looking for, simple converters for one of the powerful tools of
 What has already been implemented:
 
 1. Number
-   - [BigDecimalToDouble](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FBigDecimalToDouble)
-   - [BigDecimalToFloat](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FBigDecimalToFloat)
-   - [BigDecimalToInteger](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FBigDecimalToInteger)
-   - [BigDecimalToLong](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FBigDecimalToLong)
-   - [DoubleToBigDecimal](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FDoubleToBigDecimal)
-   - [FloatToBigDecimal](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FFloatToBigDecimal)
-   - [IntegerToBigDecimal](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FIntegerToBigDecimal)
-   - [LongToBigDecimal](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FLongToBigDecimal)
+   - [BigDecimalToDouble](src/main/java/io/justedlev/commons/jtc4mm/BigDecimalToDouble.java)
+   - [BigDecimalToFloat](src/main/java/io/justedlev/commons/jtc4mm/BigDecimalToFloat.java)
+   - [BigDecimalToInteger](src/main/java/io/justedlev/commons/jtc4mm/BigDecimalToInteger.java)
+   - [BigDecimalToLong](src/main/java/io/justedlev/commons/jtc4mm/BigDecimalToLong.java)
+   - [DoubleToBigDecimal](src/main/java/io/justedlev/commons/jtc4mm/DoubleToBigDecimal.java)
+   - [FloatToBigDecimal](src/main/java/io/justedlev/commons/jtc4mm/FloatToBigDecimal.java)
+   - [IntegerToBigDecimal](src/main/java/io/justedlev/commons/jtc4mm/IntegerToBigDecimal.java)
+   - [LongToBigDecimal](src/main/java/io/justedlev/commons/jtc4mm/LongToBigDecimal.java)
 2. Date and time
-   - [DateToLocalDateTime](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FDateToLocalDateTime)
-   - [DateToTimestamp](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FDateToTimestamp)
-   - [InstantToLocalDateTime](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FInstantToLocalDateTime)
-   - [InstantToTimestamp](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FInstantToTimestamp)
-   - [LocalDateTimeToTimestamp](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FLocalDateTimeToTimestamp)
-   - [LocalDateToTimestamp](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FLocalDateToTimestamp)
-   - [TimestampToLocalDate](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FTimestampToLocalDate)
-   - [TimestampToLocalDateTime](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FTimestampToLocalDateTime)
+   - [DateToLocalDateTime](src/main/java/io/justedlev/commons/jtc4mm/DateToLocalDateTime.java)
+   - [DateToTimestamp](src/main/java/io/justedlev/commons/jtc4mm/DateToTimestamp.java)
+   - [InstantToLocalDateTime](src/main/java/io/justedlev/commons/jtc4mm/InstantToLocalDateTime.java)
+   - [InstantToTimestamp](src/main/java/io/justedlev/commons/jtc4mm/InstantToTimestamp.java)
+   - [LocalDateTimeToTimestamp](src/main/java/io/justedlev/commons/jtc4mm/LocalDateTimeToTimestamp.java)
+   - [LocalDateToTimestamp](src/main/java/io/justedlev/commons/jtc4mm/LocalDateToTimestamp.java)
+   - [TimestampToLocalDate](src/main/java/io/justedlev/commons/jtc4mm/TimestampToLocalDate.java)
+   - [TimestampToLocalDateTime](src/main/java/io/justedlev/commons/jtc4mm/TimestampToLocalDateTime.java)
 3. String
-   - [ToLowerCase](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FToLowerCase)
-   - [ToUpperCase](..%2Fsrc%2Fmain%2Fjava%2Fio%2Fjustedlev%2Fcommons%2Fjtc4omm%2FToUpperCase)
+   - [ToLowerCase](src/main/java/io/justedlev/commons/jtc4mm/ToLowerCase.java)
+   - [ToUpperCase](src/main/java/io/justedlev/commons/jtc4mm/ToUpperCase.java)
