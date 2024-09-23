@@ -23,9 +23,6 @@ so What are you looking for, simple converters for one of the powerful tools of
 
 ### 📥 Maven dependency
 
-> [!NOTE]
-> Coming soon
-
 ```xml
 <dependency>
     <groupId>io.github.justedlev.commons</groupId>
