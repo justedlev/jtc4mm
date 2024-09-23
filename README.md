@@ -6,6 +6,7 @@
 <div id="badges" align="center">
 
 [![language](https://img.shields.io/badge/Java%2011-e6892e)](https://github.com/justedlev/jtc4mm)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.justedlev.commons/jtc4mm.svg?label=jtc4mm)](https://central.sonatype.com/search?q=io.justedlev.commons.jtc4mm)
 [![license](https://img.shields.io/github/license/justedlev/jtc4mm)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![stars](https://img.shields.io/github/stars/justedlev/jtc4mm)](https://github.com/Justedlev/jtc4mm/star)
 [![issues](https://img.shields.io/github/issues/justedlev/jtc4mm)](https://github.com/Justedlev/jtc4mm/issues)
