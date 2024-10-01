@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.justedlev.commons</groupId>
     <artifactId>jtc4mm</artifactId>
-    <version>0.0.1</version>
+    <version>0.21.13</version>
     <name>Java type converters for ModelMapper</name>
     <packaging>jar</packaging>
     <description>Java type converters for ModelMapper</description>
