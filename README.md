@@ -28,7 +28,7 @@ so What are you looking for, simple converters for one of the powerful tools of
 <dependency>
     <groupId>io.github.justedlev.commons</groupId>
     <artifactId>jtc4mm</artifactId>
-    <version>0.0.1</version>
+    <version>0.21.13</version>
 </dependency>
 ```
 
