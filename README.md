@@ -54,6 +54,9 @@ What has already been implemented:
    - [LocalDateToTimestamp](src/main/java/io/justedlev/commons/jtc4mm/LocalDateToTimestamp.java)
    - [TimestampToLocalDate](src/main/java/io/justedlev/commons/jtc4mm/TimestampToLocalDate.java)
    - [TimestampToLocalDateTime](src/main/java/io/justedlev/commons/jtc4mm/TimestampToLocalDateTime.java)
+   - [LocalDateToSqlDate](src/main/java/io/justedlev/commons/jtc4mm/LocalDateToSqlDate.java)
+   - [SqlDateToLocalDate](src/main/java/io/justedlev/commons/jtc4mm/SqlDateToLocalDate.java)
 3. String
    - [ToLowerCase](src/main/java/io/justedlev/commons/jtc4mm/ToLowerCase.java)
    - [ToUpperCase](src/main/java/io/justedlev/commons/jtc4mm/ToUpperCase.java)
+   - [StringToUUID](src/main/java/io/justedlev/commons/jtc4mm/StringToUUID.java)
