@@ -22,7 +22,7 @@ jobs:
 
       - name: Setup Maven settings.xml
         id: maven-settings
-        uses: whelk-io/maven-settings-xml-action@v11
+        uses: whelk-io/maven-settings-xml-action@v22
         with:
           servers: |
             [
